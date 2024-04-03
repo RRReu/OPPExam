@@ -1,2 +1,2 @@
 # OPPExam
-Sarışın kızlar fort atsin
+Sarışın kızlar fork atsin
